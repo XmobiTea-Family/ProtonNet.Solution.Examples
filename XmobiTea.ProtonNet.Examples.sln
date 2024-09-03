@@ -11,9 +11,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XmobiTea.ProtonNet.Examples
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XmobiTea.ProtonNet.Examples.SocketServer.Startup", "XmobiTea.ProtonNet.Examples.SocketServer.Startup\XmobiTea.ProtonNet.Examples.SocketServer.Startup.csproj", "{E7BB1751-5CC8-4225-A13B-14809B01A8DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmobiTea.ProtonNet.Examples.SocketClient", "XmobiTea.ProtonNet.Examples.SocketClient\XmobiTea.ProtonNet.Examples.SocketClient.csproj", "{D0C02896-9936-45E2-87BA-DD76D2E3464F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XmobiTea.ProtonNet.Examples.SocketClient", "XmobiTea.ProtonNet.Examples.SocketClient\XmobiTea.ProtonNet.Examples.SocketClient.csproj", "{D0C02896-9936-45E2-87BA-DD76D2E3464F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmobiTea.ProtonNet.Examples.WebApiClient", "XmobiTea.ProtonNet.Examples.WebApiClient\XmobiTea.ProtonNet.Examples.WebApiClient.csproj", "{3D835F04-D7C9-4BC1-B216-2B0CF2B748F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XmobiTea.ProtonNet.Examples.WebApiClient", "XmobiTea.ProtonNet.Examples.WebApiClient\XmobiTea.ProtonNet.Examples.WebApiClient.csproj", "{3D835F04-D7C9-4BC1-B216-2B0CF2B748F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9121F7FF-E4B3-4F88-A52F-C720BF128DCA}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
