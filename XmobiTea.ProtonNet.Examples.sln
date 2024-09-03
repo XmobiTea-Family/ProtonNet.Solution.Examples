@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XmobiTea.ProtonNet.Examples.WebApiServer.Startup", "XmobiTea.ProtonNet.Examples.WebApiServer.Startup\XmobiTea.ProtonNet.Examples.WebApiServer.Startup.csproj", "{9F959AA8-5DB4-4B22-A76D-D9E5AEC88EA4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XmobiTea.ProtonNet.Examples.WebApiServer", "XmobiTea.ProtonNet.Examples.WebApiServer\XmobiTea.ProtonNet.Examples.WebApiServer.csproj", "{4C14E0AE-638E-4640-9CDB-42424A1EA9E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XmobiTea.ProtonNet.Examples.SocketServer", "XmobiTea.ProtonNet.Examples.SocketServer\XmobiTea.ProtonNet.Examples.SocketServer.csproj", "{F7108D9C-690F-4CC2-A88C-6F08E71BEE56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XmobiTea.ProtonNet.Examples.SocketServer.Startup", "XmobiTea.ProtonNet.Examples.SocketServer.Startup\XmobiTea.ProtonNet.Examples.SocketServer.Startup.csproj", "{E7BB1751-5CC8-4225-A13B-14809B01A8DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmobiTea.ProtonNet.Examples.SocketClient", "XmobiTea.ProtonNet.Examples.SocketClient\XmobiTea.ProtonNet.Examples.SocketClient.csproj", "{D0C02896-9936-45E2-87BA-DD76D2E3464F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmobiTea.ProtonNet.Examples.WebApiClient", "XmobiTea.ProtonNet.Examples.WebApiClient\XmobiTea.ProtonNet.Examples.WebApiClient.csproj", "{3D835F04-D7C9-4BC1-B216-2B0CF2B748F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F959AA8-5DB4-4B22-A76D-D9E5AEC88EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F959AA8-5DB4-4B22-A76D-D9E5AEC88EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F959AA8-5DB4-4B22-A76D-D9E5AEC88EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F959AA8-5DB4-4B22-A76D-D9E5AEC88EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C14E0AE-638E-4640-9CDB-42424A1EA9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C14E0AE-638E-4640-9CDB-42424A1EA9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C14E0AE-638E-4640-9CDB-42424A1EA9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C14E0AE-638E-4640-9CDB-42424A1EA9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7108D9C-690F-4CC2-A88C-6F08E71BEE56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7108D9C-690F-4CC2-A88C-6F08E71BEE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7108D9C-690F-4CC2-A88C-6F08E71BEE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7108D9C-690F-4CC2-A88C-6F08E71BEE56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7BB1751-5CC8-4225-A13B-14809B01A8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7BB1751-5CC8-4225-A13B-14809B01A8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7BB1751-5CC8-4225-A13B-14809B01A8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7BB1751-5CC8-4225-A13B-14809B01A8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C02896-9936-45E2-87BA-DD76D2E3464F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C02896-9936-45E2-87BA-DD76D2E3464F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C02896-9936-45E2-87BA-DD76D2E3464F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C02896-9936-45E2-87BA-DD76D2E3464F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D835F04-D7C9-4BC1-B216-2B0CF2B748F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D835F04-D7C9-4BC1-B216-2B0CF2B748F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D835F04-D7C9-4BC1-B216-2B0CF2B748F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D835F04-D7C9-4BC1-B216-2B0CF2B748F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AE8B3DB-F1E2-49E3-9253-962620E29C2A}
+	EndGlobalSection
+EndGlobal
